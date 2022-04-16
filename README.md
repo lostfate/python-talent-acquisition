@@ -1,10 +1,12 @@
-# Big Data Engineer Assessment
+# Python Developer Assessment
 
 Hi!
 
-- Pick a dataset file (csv)
-- See at lines from this file
-- Did you checked is one column (URL) is missing?
-- Allright, I want to receive Pull Request from you with URL filled by official website of each org (set N/A if not found)
+- Fork this repo
+- Examine csv file
+- Create python script for normalization contacts
+- Perform changes to file and spit concats by fields: phone number (digits only, begin from 380); email address; website
+- Push fixed csv and your code
+- Create pull request to this repo in dedicated branch
 - There is all. Show your skill :)
 
